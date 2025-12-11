@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 18:16:31,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
+2025-12-12 06:14:20,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
 
 📺央视频道,#genre#
 CCTV-1,http://a.402089.xyz:4022/rtp/233.50.200.143:5140
@@ -19,7 +19,6 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
@@ -31,9 +30,9 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 
 🏀体育频道,#genre#
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
@@ -61,8 +60,7 @@ CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
