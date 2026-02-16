@@ -206,4 +206,6 @@ https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59c
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="http://10.1.0.106:5180/logo/广州竞赛.png" group-title="☘️广东频道",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="http://10.1.0.106:5180/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+http://free.cnlive.club/channel/n2483dc12.m3u8
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="http://10.1.0.106:5180/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
 http://szb.zxwj.cn:8081/live/guangdong_stzh.m3u8
