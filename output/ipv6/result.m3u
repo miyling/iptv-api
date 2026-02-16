@@ -1,0 +1,73 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/miyling/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.174:5180/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://free.cnlive.club/channel/65b36335.m3u8
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="http://10.1.0.174:5180/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://free.cnlive.club/channel/65b5b8f5.m3u8
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="http://10.1.0.174:5180/logo/CCTV-3.png" group-title="📺央视频道",CCTV-3
+http://free.cnlive.club/channel/65b47a65.m3u8
+#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="http://10.1.0.174:5180/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://free.cnlive.club/channel/n4a5d2858.m3u8
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="http://10.1.0.174:5180/logo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://free.cnlive.club/channel/65af9be4.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="http://10.1.0.174:5180/logo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://free.cnlive.club/channel/nef8dac1.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="http://10.1.0.174:5180/logo/CCTV-6.png" group-title="📺央视频道",CCTV-6
+http://free.cnlive.club/channel/65b48560.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="http://10.1.0.174:5180/logo/CCTV-7.png" group-title="📺央视频道",CCTV-7
+http://free.cnlive.club/channel/n408755f8.m3u8
+#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="http://10.1.0.174:5180/logo/CCTV-8.png" group-title="📺央视频道",CCTV-8
+http://free.cnlive.club/channel/50fdc854.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="http://10.1.0.174:5180/logo/CCTV-9.png" group-title="📺央视频道",CCTV-9
+http://free.cnlive.club/channel/65b89b46.m3u8
+#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="http://10.1.0.174:5180/logo/CCTV-10.png" group-title="📺央视频道",CCTV-10
+http://free.cnlive.club/channel/4ee90a2f.m3u8
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="http://10.1.0.174:5180/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
+http://free.cnlive.club/channel/4ee69fa9.m3u8
+#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="http://10.1.0.174:5180/logo/CCTV-12.png" group-title="📺央视频道",CCTV-12
+http://free.cnlive.club/channel/3bac7728.m3u8
+#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="http://10.1.0.174:5180/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://free.cnlive.club/channel/4ee827ef.m3u8
+#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="http://10.1.0.174:5180/logo/CCTV-14.png" group-title="📺央视频道",CCTV-14
+http://free.cnlive.club/channel/4ee72d51.m3u8
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="http://10.1.0.174:5180/logo/CCTV-15.png" group-title="📺央视频道",CCTV-15
+http://free.cnlive.club/channel/4eeedf1f.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="http://10.1.0.174:5180/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://free.cnlive.club/channel/34622605.m3u8
+#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.174:5180/logo/CCTV-17.png" group-title="📺央视频道",CCTV-17
+http://free.cnlive.club/channel/322d3cd3.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://10.1.0.174:5180/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://free.cnlive.club/channel/530cf649.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://10.1.0.174:5180/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://free.cnlive.club/channel/5a3edab2.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://10.1.0.174:5180/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://free.cnlive.club/channel/5a53e58d.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://10.1.0.174:5180/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://free.cnlive.club/channel/4ddfb741.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://10.1.0.174:5180/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://free.cnlive.club/channel/5a52f54d.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://10.1.0.174:5180/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://free.cnlive.club/channel/4bf2a9e9.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://10.1.0.174:5180/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://free.cnlive.club/channel/4bada807.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://10.1.0.174:5180/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://free.cnlive.club/channel/53ebe4ec.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://10.1.0.174:5180/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://free.cnlive.club/channel/5a21705c.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://10.1.0.174:5180/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://free.cnlive.club/channel/4fcef3ee.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://10.1.0.174:5180/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://free.cnlive.club/channel/5a3478ee.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://10.1.0.174:5180/logo/广东珠江.png" group-title="☘️广东频道",广东珠江
+http://free.cnlive.club/channel/n6e47401d.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://10.1.0.174:5180/logo/广东体育.png" group-title="☘️广东频道",广东体育
+http://free.cnlive.club/channel/n2afd3461.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://10.1.0.174:5180/logo/广东卫视.png" group-title="☘️广东频道",广东卫视
+http://free.cnlive.club/channel/530cf649.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="http://10.1.0.174:5180/logo/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
+http://free.cnlive.club/channel/684d0497.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://10.1.0.174:5180/logo/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+http://free.cnlive.club/channel/5a3478ee.m3u8
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="http://10.1.0.174:5180/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+http://free.cnlive.club/channel/n2483dc12.m3u8
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="http://10.1.0.174:5180/logo/汕头经济.png" group-title="☘️广东频道",汕头经济
+http://free.cnlive.club/channel/7e5a2477.m3u8
